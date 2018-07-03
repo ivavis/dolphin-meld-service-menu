@@ -3,6 +3,7 @@
 ![Image 1](https://raw.githubusercontent.com/ivavis/dolphin-meld-service-menu/master/screenshot/meld-compare-menu-1.png)
 
 [Opendesktop.org download link](https://www.opendesktop.org/p/1100882)
+[store.kde.org download link](https://store.kde.org/p/1100882)
 
 ## Description: 
 
