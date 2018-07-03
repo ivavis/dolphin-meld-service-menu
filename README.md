@@ -37,3 +37,9 @@ kde4-config --path services
 and check your output
 
 ;)
+
+
+## CONTRIBUTIONS
+### Translations
+* Dutch and German translations picked from [naraesk dolphin-service-menu-meld repository](https://github.com/naraesk/dolphin-service-menu-meld).
+  KUDOS to [@naraesk](https://github.com/naraesk)
