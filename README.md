@@ -1,6 +1,6 @@
 # dolphin-meld-service-menu
 
-[![meld-compare-menu-1.png](dolphin-meld-service-menu/screenshot/meld-compare-menu-1.png)]
+![Image 1](https://raw.githubusercontent.com/ivavis/dolphin-meld-service-menu/master/screenshot/meld-compare-menu-1.png)
 
 ## Description: 
 
